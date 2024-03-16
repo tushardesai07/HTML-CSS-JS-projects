@@ -1,0 +1,237 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.navbar{
+    background-color: whitesmoke;
+}
+
+
+div ul{
+    background-color: whitesmoke;
+    display: flex;
+    width: 80%;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration-style: none;
+    list-style-type: none;
+    margin-left: 13%;
+    margin-right: 50px;
+}
+
+
+li a{
+  text-decoration: none;
+}
+
+.image0 {
+    display: flex;
+    width: 80%;
+    margin-left: 13%;
+    align-content: center;
+    justify-content: space-around;
+    
+    
+    
+}
+#image1{
+    margin-top: 7px;
+}
+#red1,#red2{
+    color: red;
+    font-size: smaller;
+}
+ a{
+  text-decoration: none; 
+}
+.note{
+    background-color: whitesmoke;
+    width: 83.5%;
+    margin-left:0 ;
+    padding-left: 250px;
+    margin-top: 10px;
+    margin-right: 250px;
+    display: flex;
+    text-align: left;
+}
+
+.image3 div{
+     background-color: black;
+     width: 100%;
+     height: 620px;
+     color: white;
+     display: inline-block;
+     padding-top: 0;
+     text-align: center;
+     justify-content: center;
+     background-image: url("./img/hero_iphone_15_pro__eqwrvy72748y_large.jpg");
+     background-repeat: no-repeat;
+     background-position: bottom right;
+     padding-top: 60px;
+     
+    
+   
+}
+
+
+ .image3 button{
+    background-color:  blue;
+    color: white;
+    border-radius:  45vw ;
+    padding: 10px 30px 10px 30px;
+    margin-bottom: 23px;
+    margin-top: 20px;
+
+}
+.image3 img, p{
+     margin-top: 20px;
+}
+.image3 h1{
+    margin-top: 60px;
+}
+
+.image4 div{
+    background-color: white;
+    width: 100%;
+    height: 620px;
+    color: black;
+    display: inline-block;
+    padding-top: 100px;
+    text-align: center;
+    justify-content: center;
+    background-image: url("./img/hero_iphone_15__fano21ho6fqu_large.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom ;
+}
+.image4 button{
+    background-color: blue;
+    color:white;
+    border-radius:40vw ;
+    padding: 10px 30px 10px 30px;
+    margin-bottom: 22px;
+    margin-top: 10px;
+}
+
+.image5 div{
+    background-color: #FBFBFD;
+    width: 90%;
+    height: 620px;
+    color: black;
+    display: inline-block;
+    padding-top: 100px;
+    text-align:left;
+    justify-content: center;
+    padding-left: 150px;
+    background-image: url("./img/iphone_se_hero__gd586pazxqqa_large.jpg");
+    background-repeat: no-repeat;
+    background-position:100lvh;
+
+   
+}
+.image5 button{
+    background-color: blue;
+    color:white;
+    border-radius:40vw ;
+    padding: 10px 30px 10px 30px;
+    margin-bottom: 22px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.image5 img,p{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 150px;
+
+}
+.image5 h1{
+    color: #4141d4;
+    font-size: xx-large;
+    margin-left: 150px;
+}
+#lm{
+    margin-left: 150px;
+}
+
+.image6{
+    width: 95%;
+    height: 700px;
+    background-color: #FBFBFD;
+    color: white;
+    background-image: url("./img/guided_tour__c40f88on9o8y_large.jpg");
+    border-radius:2dvw;
+    margin-left: 2.5%;
+    margin-top: 15px;
+    justify-content: center;
+    
+   
+}
+
+.image6 h2{
+    padding-left: 25lvh;
+    padding-top:25%;
+}
+
+.image6 h1{
+    padding-left: 25lvh;
+
+}
+.image6 button{
+    background-color:white;
+    color:black;
+    border-radius:40vw ;
+    padding: 10px 30px 10px 30px;
+    margin-bottom: 22px;
+    margin-top: 10px;
+    margin-left: 160px;
+}
+
+#heading{
+      text-align: center;
+      font-size: 60px;
+      margin-top: 80px;
+}
+
+footer .container2{
+    display:grid;
+    grid-template-columns:  1fr 1fr 1fr 1fr 1fr;
+    width: 80%;
+    margin-left: 15%;
+    padding-top: 20px;
+ 
+}
+footer .container1{
+    width: 80;
+    margin-left: 15%;
+    padding-top: 60px;
+}
+
+.container2 ul {
+    list-style-type: none;
+}
+
+.container3 {
+    width: 80%;
+    margin-left: 15%;
+    padding-top: 20px;
+}
+.container4 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 38px;
+}
+
+a:hover{
+      
+    text-decoration: underline;
+
+}
+
+hr{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
